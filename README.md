@@ -1,0 +1,2 @@
+# NorthwindSlim
+NorthwindSlim sample database
